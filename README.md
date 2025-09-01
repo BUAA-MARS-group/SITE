@@ -35,7 +35,7 @@ We strongly recommend using conda or pip to create a virtual environment and ins
 ## Data
 The dataset of *Reynolds stress transport equation* can be downlaoded from [here](https://zenodo.org/records/17015634).
 
-After that, move the .npz and .mat data to '/2_Reynolds_Stress_Transport_Equation/data'.
+After that, move the .npy and .mat data to '/2_Reynolds_Stress_Transport_Equation/data'.
 
 ## How to run our cases?
 Most datas are included in the directory. The scripts are in the corresponding dictionaries. One can run the desired scripts with python IDE.

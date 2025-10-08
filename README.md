@@ -40,5 +40,15 @@ After that, move the .npy and .mat data to '/2_Reynolds_Stress_Transport_Equatio
 ## How to run our cases?
 Most datas are included in the directory. The scripts are in the corresponding dictionaries. One can run the desired scripts with python IDE.
 
-## Coming soon...
-A demo notebook will be soon uploaded for understanding SITE.
+## Getting started
+We provide a quick-start tutorial to help new users get started with SITE.
+
+In this tutorial, we show how to use SITE to perform a small tensor symbolic regression task on synthetic data and inspect the result interactively.
+
+- The reference quick-start notebook for this tutorial is available at `demos/demo.ipynb` in this repository. It contains a compact example that configures primitives, generates synthetic data, and runs a short evolutionary trial with reduced population/generations for fast testing.
+
+- Then open `demos/demo.ipynb` and run the cells sequentially.
+
+For more details and advanced usage, see the code and demos directories.
+
+You can change the target equation and the parameters in the demo script to explore more possibilities.

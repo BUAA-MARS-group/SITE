@@ -1,6 +1,6 @@
 # SITE: Symbolic Identification of Tensor Equations
 
-This is an open-source repository of the Python code used in the paper [*Symbolic identification of tensor equations in multidimensional physical fields.*](https://arxiv.org/abs/2507.01466) arXiv preprint arXiv:2507.01466 (2025).
+This is an open-source repository of the Python code used in the paper [*Symbolic identification of tensor equations in multidimensional physical fields.*]([https://arxiv.org/abs/2507.01466](https://doi.org/10.1017/jfm.2025.10710)).
 
 Some of the code implementations refer to the following repositories:
 - [*geppy: a gene expression programming framework in Python*](https://github.com/ShuhuaGao/geppy)
